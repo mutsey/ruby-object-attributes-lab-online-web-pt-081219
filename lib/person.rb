@@ -7,6 +7,3 @@ class Person
     @name
   end
 end
- 
-John = Person.new("John")
-John.name #=> "John"
